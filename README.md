@@ -101,6 +101,8 @@
 - [ ] - [I. Descobrindo senha](#)
 - [ ] - [J. Mergulho](#)
 ### Lista 09 
-    Em breve
-### Lista 10
-    Em breve
+- [x] - [A. Jogo da estratégia.](/PCT01_Lista09/A-JogoEstrategia_confuso.py) ([Input 1](/PCT01_Lista09/a1.txt)) ([2](/PCT01_Lista09/a2.txt))
+- [x] - [B. Holter.](/PCT01_Lista09/B-Holter.py) ([Input 1](/PCT01_Lista09/b1.txt)) ([2](/PCT01_Lista09/b2.txt)) ([3](/PCT01_Lista09/b3.txt))
+- [ ] - [C. Lâmpadas.](/PCT01_Lista09/C-Lampadas.py) ([Input 1](/PCT01_Lista09/c1.txt)) ([2](/PCT01_Lista09/c2.txt))
+- [ ] - [D. Enigma.](/PCT01_Lista09/D-Enigma.py) ([Input 1](/PCT01_Lista09/d1.txt)) ([2](/PCT01_Lista09/d2.txt))
+      
